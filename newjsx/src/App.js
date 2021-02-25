@@ -9,26 +9,17 @@ function App() {
 			<img src={Img} class="img" alt="" />
 			<p>
 				<strong>
-					2 envelopes unflavored gelatine
-					<br />
-					1/2 cup sugar
-					<br />
-					1 teaspoon salt
-					<br />
-					1 can (12 oz) apple juice
-					<br />
-					1/2 cup lemon juice
-					<br />
-					2 tablespoons vinegar
-					<br />
-					1 cup shredded carrot
-					<br />
-					1 cup sliced celery
-					<br />
-					1 cup finely shredded cabbage
-					<br />
-					1/2 cup chopped green pepper
-					<br />1 can (4 oz) chopped pimiento
+					2 envelopes unflavored gelatine<br/>
+					1/2 cup sugar<br />
+					1 teaspoon salt<br />
+					1 can (12 oz) apple juice<br />
+					1/2 cup lemon juice<br />
+					2 tablespoons vinegar<br />
+					1 cup shredded carrot<br />
+					1 cup sliced celery<br />
+					1 cup finely shredded cabbage<br />
+					1/2 cup chopped green pepper<br />
+          1 can (4 oz) chopped pimiento
 				</strong>
 			</p>
 			<p>1. In small saucepan, combine gelatine, sugar, and salt; mix well.</p>
